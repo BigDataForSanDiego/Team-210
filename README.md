@@ -5,7 +5,7 @@
 #### Team Name: Soup
   
 #### Your team’s hackathon idea in One sentence:
-##### Team Soup is going to develop an interface which creates new buses routes that are concentrated on providing easy and constact access to the local Imperial Valley zone and the interlocal San Diego county of the medical instituions, doctor's offices, and specialists.  
+##### Team Soup is going to develop an app that helps patients manage their specific health needs through games.  
 
 
 #### A visual
