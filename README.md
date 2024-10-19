@@ -5,7 +5,7 @@
 #### Team Name: Soup
   
 #### Your team’s hackathon idea in One sentence:
-##### Team Soup is going to develop an app that helps patients manage their specific health needs through games.  
+##### Team soup is going to develop an interactive mobile app that concentrates in making an individual's health journey as if they were in a video game. 
 
 
 #### A visual
